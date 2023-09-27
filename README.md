@@ -75,7 +75,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## OUR RESEARCH AND DEVELOPMENT PROGRAMS:
-![rnd](https://github.com/samrohan-io/samrohan-io/assets/139897809/f7103a11-0178-4d87-851b-cdeb8d372042)
+![ghrnd](https://github.com/samrohan-io/samrohan-io/assets/139897809/982dbfed-067a-4c69-a32a-60263c78a35a)
+
 
 
 
@@ -268,21 +269,23 @@ Best Regards,
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samrohan-io) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC1ro95avaLzA8FJnc-lX_Dw) 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samrohan-io&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samrohan-io&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samrohan-io&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=samrohan-io&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samrohan-io&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samrohan-io&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samrohan-io&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samrohan-io&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=samrohan-io&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samrohan-io&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samrohan-io&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
    
 
+   
    
