@@ -1,8 +1,10 @@
 ![githome](https://github.com/samrohan-io/samrohan-io/assets/139897809/163e0505-54ca-413e-ad0a-9038e29ccf10)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Welcome to 'samrohan-io'
 ![z1](https://github.com/samrohan-io/samrohan-io/assets/139897809/944fb5a1-ca1f-49d8-9dce-c5c3e51505da)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hello Ladies and Gentlemen!
@@ -10,6 +12,8 @@
 - Greetings. I am  Sam Rohan, hailing from India, and I hold the esteemed position of Director and Chief Engineer at an emerging open-source technology community known as  SR CYBER LABS. Our community encompasses various IT Research and Development Operations, including A.I Prompt engineering, Cloud computing, Supercomputers, Software Development Life Cycle, Cyber security, Stock Markets, Intraday Trading, Financial Literacy, Cultivation of Effective Business Communication Skills, Linux Systems and Python Programming. among many others. My passion lies in promoting the utilization of open-source software development for a promising and illuminated future. My ultimate goal is to facilitate your acquisition of substantial knowledge during your engagement here, and I deeply appreciate your decision to join us. I am confident that your experience will be exceptionally enriching.
 
 - I provide fee-based client services. My approach is firmly rooted in maintaining adherence to budgetary considerations, emphasizing affordability, and achieving high-quality outcomes. I vehemently oppose the practice of overcharging clients and denounce any form of financial scams in all service and transactional activities. My commitment to transparent, equitable, and secure business practices cultivates a profitable environment for all stakeholders involved in our engagements. Upholding values such as Honesty, Integrity, Gratitude, Empathy, and Generosity, I stand as a steadfast and effective leader in this realm.
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### MY RESPONSIBILITIES: 
@@ -74,11 +78,9 @@
 * Show Gratitude: Thank people who help you. It pays off late.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## OUR RESEARCH AND DEVELOPMENT PROGRAMS:
 ![ghrnd](https://github.com/samrohan-io/samrohan-io/assets/139897809/982dbfed-067a-4c69-a32a-60263c78a35a)
-
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
